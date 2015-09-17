@@ -84,3 +84,12 @@
 * ### [AndroidCat](http://www.androidcat.com/)
 
 * ### [stackoverflow上Java相关回答整理翻译](https://github.com/giantray/stackoverflow-java-top-qa)
+
+* ### [SecMobi Wiki](https://github.com/secmobi/wiki.secmobi.com)
+> SecMobi Wiki is a collection of mobile security resources.
+
+* ### [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions)
+> iOS面试题集锦（附答案）
+
+* ### [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
+> Collection of material design libs and res.
