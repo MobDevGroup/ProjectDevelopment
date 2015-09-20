@@ -25,6 +25,9 @@
 
 * ### [awesome-objc-frameworks](https://github.com/XCGit/awesome-objc-frameworks)
 
+* ### [iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips)
+> iOS9适配系列教程
+
 * ### [awesome-electron](https://github.com/sindresorhus/awesome-electron)
 
 * ### [awesome-ios](https://github.com/Orion777/awesome-ios)
@@ -46,6 +49,10 @@
 * ### [awesome-crystal](https://github.com/veelenga/awesome-crystal)
 
 * ### [awesome-android](https://github.com/snowdream/awesome-android)
+
+* ### [awesome-android-performance](https://github.com/Juude/awesome-android-performance)
+
+* ### [awesome-osx](https://github.com/iCHAIT/awesome-osx)
 
 * ### [awesome](https://github.com/sindresorhus/awesome)
 
