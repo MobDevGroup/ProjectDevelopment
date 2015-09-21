@@ -103,3 +103,5 @@
 
 * ### [react-native-guide](https://github.com/ele828/react-native-guide)
 > React-Native指南汇集了react-native学习资源与各类开源app
+
+* ### [Github-iOS备忘](http://github.ibireme.com/github/list/ios/)
