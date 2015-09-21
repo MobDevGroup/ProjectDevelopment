@@ -1,8 +1,9 @@
 ## 项目管理
 * ### [GitFlow](http://nvie.com/posts/a-successful-git-branching-model/)
->  一种借助Git分支来完成项目开发的工作流程，如果你还在用SVN，那么不妨试一下Git，值得拥有，附上[GitHub地址](https://github.com/nvie/gitflow)。
+>  一种借助Git分支来完成项目开发的工作流程，附上[GitHub地址](https://github.com/nvie/gitflow)。
 
 * ### [改进合作 Git 工作流：自动提取、合并提交](http://tech.meituan.com/improving-git-flow_squashing-commits.html)
+> Git工作流
 
 * ### [slack群组](http://slack.com/)
 > Slack 是聊天群组 + 大规模工具集成 + 文件整合 + 统一搜索集为一体，是团队项目开发沟通的首选。
