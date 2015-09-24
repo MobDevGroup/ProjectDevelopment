@@ -67,6 +67,9 @@
 * ### [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions)
 > iOS面试题集锦（附答案）
 
+* ### [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos)
+> 精心收集并分类整理的Swift开发学习资源
+
 * ### [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation)
 
 * ### [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart)
