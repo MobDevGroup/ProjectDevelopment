@@ -93,6 +93,9 @@
 
 ### 其它部分
 
+* ### [awesome-developer](https://github.com/phodal/awesome-developer)
+> Web Developer学习路线图
+
 * ### [Google-IPs](https://github.com/justjavac/Google-IPs)
 > Google 全球 IP 地址库
 
