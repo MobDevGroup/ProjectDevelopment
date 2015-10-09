@@ -39,6 +39,9 @@
 
 ### iOS部分
 
+* ### [苹果AppStore被拒理由大全](https://whyreject.me)
+> 作者整理的一份App上架AppStore后被拒理由大全
+
 * ### [iOSHackStudy](https://github.com/pandazheng/IosHackStudy)
 > IOS安全学习资料汇总
 
