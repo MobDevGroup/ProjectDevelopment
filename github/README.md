@@ -96,6 +96,9 @@
 
 ### 其它部分
 
+* ### [最流行的开源静态网站生成器](http://www.staticgen.com)
+> 最流行的开源静态网站生成器
+
 * ### [awesome-developer](https://github.com/phodal/awesome-developer)
 > Web Developer学习路线图
 
