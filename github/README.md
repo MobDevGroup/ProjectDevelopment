@@ -84,6 +84,9 @@
 
 ### 前端部分
 
+* ### [awesome-IoT-hybrid](https://github.com/weblancaster/awesome-IoT-hybrid)
+> The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
+
 * ### [front-end-collect](https://github.com/foru17/front-end-collect)
 
 * ### [react-native-guide](https://github.com/ele828/react-native-guide)
