@@ -99,6 +99,9 @@
 
 ### 其它部分
 
+[ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)
+> 非常棒的工具收集
+
 * ### [awesome-aws](https://github.com/donnemartin/awesome-aws)
 > A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.
 
