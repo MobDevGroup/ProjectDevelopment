@@ -99,6 +99,12 @@
 
 ### 其它部分
 
+* ### [awesome-aws](https://github.com/donnemartin/awesome-aws)
+> A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.
+
+* ### [computer-science](https://github.com/open-source-society/computer-science)
+> 开源的社会大学在：自学计算机科学
+
 * ### [最流行的开源静态网站生成器](http://www.staticgen.com)
 > 最流行的开源静态网站生成器
 
