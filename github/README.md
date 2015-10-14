@@ -2,6 +2,8 @@
 
 ### Android部分
 
+* ### [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries)
+
 * ### [android相关的干货(文摘，名博，github等等)](https://github.com/openproject/AndroidDigest)
 
 * ### [Android 开源项目 Demo](https://github.com/android-cn/android-open-project-demo)
@@ -83,6 +85,9 @@
 
 
 ### 前端部分
+
+* ### [fetool](https://github.com/nieweidong/fetool)
+> 大前端工具资源集
 
 * ### [awesome-IoT-hybrid](https://github.com/weblancaster/awesome-IoT-hybrid)
 > The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
