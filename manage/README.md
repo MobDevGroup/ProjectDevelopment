@@ -22,3 +22,7 @@
 
 ### 经验分享
 * ### [写给那些傻傻的，想做服务器开发的应届生](http://blog.devtang.com/blog/2015/10/07/why-fresh-wants-to-do-server-dev/)
+
+### 其他
+
+* ### [强迫症的 Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac)
