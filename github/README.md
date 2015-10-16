@@ -86,6 +86,18 @@
 
 ### 前端部分
 
+* ### [angular好用的插件集合](http://segmentfault.com/a/1190000003858219)
+> angular好用的插件集合
+
+* ### [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
+> A bunch of links to blog posts, articles, videos, etc for learning AngularJS
+
+* ### [recipes-with-angular-js-examples](https://github.com/fdietz/recipes-with-angular-js-examples)
+> Recipes with Angular.js
+
+* ### [awesome-react-native](https://github.com/jondot/awesome-react-native)
+> An "awesome" type curated list of React Native components, news, tools, and learning material
+
 * ### [fetool](https://github.com/nieweidong/fetool)
 > 大前端工具资源集
 
@@ -103,6 +115,9 @@
 
 
 ### 其它部分
+
+* ### [awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN)
+> 一份关于“资料汇总”的汇总。
 
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)
 > 非常棒的工具收集
