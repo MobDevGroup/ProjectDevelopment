@@ -116,6 +116,9 @@
 
 ### 其它部分
 
+* #### [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)
+> Use your OS X terminal shell to do awesome things.
+
 * #### [awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN)
 > 一份关于“资料汇总”的汇总。
 
