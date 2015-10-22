@@ -116,6 +116,9 @@
 
 ### 其它部分
 
+* #### [badges](https://github.com/boennemann/badges)
+> 所有与JS相关的免费开源readme角标集合
+
 * #### [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)
 > Use your OS X terminal shell to do awesome things.
 
