@@ -119,6 +119,9 @@
 
 ### 其它部分
 
+#### [WebsitesForStudents](https://github.com/Xuanwo/WebsitesForStudents)
+> 一个旨在建设一个对大学生有益有用的集合的库
+
 #### [Chrome开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
 > Chrome DevTools中文文档翻译
 
