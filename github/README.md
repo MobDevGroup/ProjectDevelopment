@@ -114,10 +114,16 @@
 
 #### [be-grace-front-end-developer](https://github.com/iamjoel/be-grace-front-end-developer)
 
-#### [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
+#### [Font-Awesome中文版](https://github.com/FortAwesome/Font-Awesome)
 
 
 ### 其它部分
+
+#### [awesome-sketch](https://github.com/diessica/awesome-sketch)
+> 关于Sketch的资料
+
+#### [Awesome-Sketch](https://github.com/CharzLuo/Awesome-Sketch)
+> 关于Sketch的资料中文翻译
 
 #### [WebsitesForStudents](https://github.com/Xuanwo/WebsitesForStudents)
 > 一个旨在建设一个对大学生有益有用的集合的库
