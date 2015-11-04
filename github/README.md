@@ -123,6 +123,9 @@
 
 ### 其它部分
 
+#### [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
+> A curated list of awesome remote jobs and resources.
+
 #### [awesome-sketch](https://github.com/diessica/awesome-sketch)
 > 关于Sketch的资料
 
