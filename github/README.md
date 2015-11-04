@@ -89,6 +89,10 @@
 
 ### 前端部分
 
+#### [前端开发面试问题及答案整理](https://github.com/Enolak/Front-end-questions-to-the-interview-stage)
+
+#### [前端资源教程](https://github.com/Enolak/Front-end-tutorial)
+
 #### [angular好用的插件集合](http://segmentfault.com/a/1190000003858219)
 > angular好用的插件集合
 
