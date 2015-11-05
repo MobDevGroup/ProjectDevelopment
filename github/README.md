@@ -89,6 +89,8 @@
 
 ### 前端部分
 
+#### [前端博文库](https://github.com/fouber/blog)
+
 #### [前端开发面试问题及答案整理](https://github.com/Enolak/Front-end-questions-to-the-interview-stage)
 
 #### [前端资源教程](https://github.com/Enolak/Front-end-tutorial)
