@@ -1,6 +1,12 @@
 
 ### 网络编程
 
+#### [java-jwt](https://github.com/auth0/java-jwt)
+> Java implementation of JSON Web Token (JWT)
+
+#### [jjwt](https://github.com/jwtk/jjwt)
+> Java JWT: JSON Web Token for Java
+
 #### [REST API 安全设计指南](http://blog.nsfocus.net/rest-api-design-safety/?comefrom=http://blogread.cn/news/)
 
 #### [使用 AngularJS & NodeJS 实现基于 token 的认证应用](http://zhuanlan.zhihu.com/FrontendMagazine/19920223)
