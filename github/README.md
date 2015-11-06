@@ -1,6 +1,9 @@
 
 ### Android部分
 
+#### [Java资源大全中文版](https://github.com/jobbole/awesome-java-cn)
+> 包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
+
 #### [Tim9Liu9总结的Android开源项目及库](https://github.com/Tim9Liu9/TimLiu-Android)
 
 #### [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
