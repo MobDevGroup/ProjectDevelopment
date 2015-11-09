@@ -128,6 +128,9 @@
 
 ### 其它部分
 
+#### [CCBooks](https://github.com/marboo/CCBooks)
+> 开源著作列表
+
 #### [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
 > A curated list of awesome remote jobs and resources.
 
