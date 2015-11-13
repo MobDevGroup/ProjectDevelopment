@@ -1,6 +1,9 @@
 
 ### Android部分
 
+#### [Java 8 学习指南](https://github.com/winterbe/java8-tutorial)
+> Java8提供很多好用的特性，是一个很不错的学习教程资源，推荐Java程序员可以看看
+
 #### [Java资源大全中文版](https://github.com/jobbole/awesome-java-cn)
 > 包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 
@@ -127,6 +130,9 @@
 
 
 ### 其它部分
+
+#### [free-for-dev](https://github.com/ripienaar/free-for-dev)
+> A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 #### [CCBooks](https://github.com/marboo/CCBooks)
 > 开源著作列表
