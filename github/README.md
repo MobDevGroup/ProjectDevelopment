@@ -161,7 +161,7 @@
 #### [awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN)
 > 一份关于“资料汇总”的汇总。
 
-[ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)
+#### [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)
 > 非常棒的工具收集
 
 #### [awesome-aws](https://github.com/donnemartin/awesome-aws)
