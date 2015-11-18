@@ -1,6 +1,8 @@
 
 ### 网络编程
 
+#### [最好的8个 Java RESTful 框架](http://colobu.com/2015/11/15/best-available-java-restful-micro-frameworks/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 #### [java-jwt](https://github.com/auth0/java-jwt)
 > Java implementation of JSON Web Token (JWT)
 
@@ -18,6 +20,8 @@
 > web技术栈
 
 ### 文档
+
+#### [Charles 从入门到精通](http://blog.devtang.com/blog/2015/11/14/charles-introduction/)
 
 #### [http-api-design](https://github.com/interagent/http-api-design)
 > HTTP API 设计指南
