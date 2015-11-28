@@ -131,6 +131,12 @@
 
 ### 其它部分
 
+#### [awesome-scala](https://github.com/lauris/awesome-scala)
+> A community driven list of useful Scala libraries, frameworks and software.
+
+#### [Design and development guides](https://github.com/NARKOZ/guides)
+> Design and development guides
+
 #### [free-for-dev](https://github.com/ripienaar/free-for-dev)
 > A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
