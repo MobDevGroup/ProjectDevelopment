@@ -131,6 +131,9 @@
 
 ### 其它部分
 
+#### [awesome-interviews](https://github.com/MaximAbramchuck/awesome-interviews)
+> A curated list of awesome lists of interview questions.
+
 #### [awesome-scala](https://github.com/lauris/awesome-scala)
 > A community driven list of useful Scala libraries, frameworks and software.
 
