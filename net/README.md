@@ -1,6 +1,12 @@
 
 ### 网络编程
 
+#### [jsonapi](http://jsonapi.org/)
+> 用 JSON 构建 API 的标准指南,开源库[地址](https://github.com/json-api/json-api)
+
+#### [用 JSON 构建 API 的标准指南](http://jsonapi.org.cn/)
+> 上面的中文版  开源库[地址](https://github.com/justjavac/json-api-zh_CN)
+
 #### [最好的8个 Java RESTful 框架](http://colobu.com/2015/11/15/best-available-java-restful-micro-frameworks/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 #### [java-jwt](https://github.com/auth0/java-jwt)
