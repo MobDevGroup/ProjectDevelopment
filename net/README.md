@@ -1,6 +1,9 @@
 
 ### 网络编程
 
+#### [RESTful 架构风格概述](http://blog.igevin.info/posts/restful-architecture-in-general/)
+
+
 #### [jsonapi](http://jsonapi.org/)
 > 用 JSON 构建 API 的标准指南,开源库[地址](https://github.com/json-api/json-api)
 

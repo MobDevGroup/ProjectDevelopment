@@ -50,6 +50,9 @@
 
 ### iOS部分
 
+#### [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education)
+> All the resources for Learning About Swift
+
 #### [苹果AppStore被拒理由大全](https://whyreject.me)
 > 作者整理的一份App上架AppStore后被拒理由大全
 
@@ -133,6 +136,9 @@
 
 
 ### 其它部分
+
+#### [Big-Data-Resources](https://github.com/Flowerowl/Big-Data-Resources)
+> 大数据/数据挖掘/推荐系统/机器学习相关资源
 
 #### [awesome-interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 > A curated list of awesome lists of interview questions.
