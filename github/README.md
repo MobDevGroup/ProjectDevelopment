@@ -137,6 +137,9 @@
 
 ### 其它部分
 
+#### [github-blogs](https://github.com/yutingzhao1991/github-blogs)
+> Github上Issues博客的收集和定期推送服务，watch本项目可接收推送。
+
 #### [Big-Data-Resources](https://github.com/Flowerowl/Big-Data-Resources)
 > 大数据/数据挖掘/推荐系统/机器学习相关资源
 
