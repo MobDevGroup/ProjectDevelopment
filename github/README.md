@@ -1,6 +1,9 @@
 
 ### Android部分
 
+#### [awesome-android-libraries](https://github.com/yeungeek/awesome-android-libraries)
+> Android开源框架库分类，挑选出最常用，最实用的开源项目，本篇主要介绍的是优秀开源框架库和项目
+
 #### [Java 8 学习指南](https://github.com/winterbe/java8-tutorial)
 > Java8提供很多好用的特性，是一个很不错的学习教程资源，推荐Java程序员可以看看
 

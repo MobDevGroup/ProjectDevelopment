@@ -1,5 +1,7 @@
 ### 项目管理
 
+#### [Gitlab Gitflow总结](http://blog.csdn.net/uxyheaven/article/details/50373076)
+
 #### [GitFlow](http://nvie.com/posts/a-successful-git-branching-model/)
 >  一种借助Git分支来完成项目开发的工作流程，附上[GitHub地址](https://github.com/nvie/gitflow)。
 
