@@ -101,6 +101,9 @@
 
 ### 前端部分
 
+#### [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn)
+> JavaScript 资源大全中文版
+
 #### [fe-dev-bookmarks](https://github.com/putaoshu/fe-dev-bookmarks)
 > 前端开发书签
 
