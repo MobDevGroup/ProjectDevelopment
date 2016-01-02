@@ -1,6 +1,9 @@
 
 ### Android部分
 
+#### [awesome-android-testing](https://github.com/hotchemi/awesome-android-testing)
+> A curated list of awesome android testing libraries.
+
 #### [awesome-android-libraries](https://github.com/yeungeek/awesome-android-libraries)
 > Android开源框架库分类，挑选出最常用，最实用的开源项目，本篇主要介绍的是优秀开源框架库和项目
 
