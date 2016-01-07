@@ -104,6 +104,9 @@
 
 ### 前端部分
 
+#### [essential-javascript-links](https://github.com/ericelliott/essential-javascript-links)
+> Essential JavaScript website.
+
 #### [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn)
 > JavaScript 资源大全中文版
 
