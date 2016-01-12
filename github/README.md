@@ -56,6 +56,9 @@
 
 ### iOS部分
 
+#### [CocoaConferences](https://github.com/Lascorbe/CocoaConferences)
+> List of cocoa conferences for iOS & OSX developers.
+
 #### [Awesome-Swift-Education](https://github.com/hsavit1/Awesome-Swift-Education)
 > All the resources for Learning About Swift
 
@@ -104,6 +107,10 @@
 
 ### 前端部分
 
+#### [frontend-dev-bookmarks
+](https://github.com/dypsilon/frontend-dev-bookmarks)
+>前端开发书签资源整理
+
 #### [essential-javascript-links](https://github.com/ericelliott/essential-javascript-links)
 > Essential JavaScript website.
 
@@ -148,6 +155,12 @@
 
 
 ### 其它部分
+
+#### [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+> A list of helpful back-end related questions you can use to interview potential candidates, test yourself or completely ignore.
+
+#### [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer)
+> 如何成长为一个程序员
 
 #### [github-blogs](https://github.com/yutingzhao1991/github-blogs)
 > Github上Issues博客的收集和定期推送服务，watch本项目可接收推送。
