@@ -1,6 +1,9 @@
 
 ### Android部分
 
+#### [Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture/)
+> Android架构文章合集
+
 #### [awesome-android-testing](https://github.com/hotchemi/awesome-android-testing)
 > A curated list of awesome android testing libraries.
 
@@ -155,6 +158,15 @@
 
 
 ### 其它部分
+
+#### [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas)
+> List of awesome app ideas
+
+#### [awesome-c](https://github.com/aleksandar-todorovic/awesome-c)
+> Continuing the development of awesome-c list on GitHub
+
+#### [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
+> An awesome list of high-quality open datasets in public domains (on-going).
 
 #### [Back-End-Developer-Interview-Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 > A list of helpful back-end related questions you can use to interview potential candidates, test yourself or completely ignore.
