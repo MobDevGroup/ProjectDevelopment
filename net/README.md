@@ -40,14 +40,32 @@
 
 ### 工具
 
+#### [ApiManager](https://github.com/gongwalker/ApiManager)
+> 一个PHP开源项目，接口文档管理平台
+
 #### [APIDOC](http://apidocjs.com/)
 > 在线接口文档
 
 #### [apiary](https://apiary.io/)
-> 最简单的API编写文档工具
+> 能够快速启动和运行文档，包括GitHub集成和I/O验证
 
 #### [swagger](http://swagger.io/)
-> 同样作为API编写文档工具，这个是免费
+> Swagger框架可以通过代码生成漂亮的在线API，甚至可以提供运行示例。支持Scala、Java、Javascript、Ruby、PHP甚至 Actionscript 3。
+
+#### [I/O Docs](https://github.com/mashery/iodocs)
+> I/O Docs是一个用于RESTful Web APIs的交互式文档系统。使用 JSON 模型根据资源、方法和参数定义 APIs。I/O Docs 将生成 JavaScript 客户端接口，可通过这些接口来调用系统。服务器端基于 Node.js 开发。
 
 #### [JSONDoc](http://jsondoc.org/)
 > easily generate docs and playground for your RESTful API
+
+#### [Docco](http://jashkenas.github.io/docco/)
+> Docco是一个快速而随意、hundred-line-long、迭代程序风格的文档生成器。它会以HTML的方式显示评论和代码。
+
+#### [Dexy](http://www.dexy.it/)
+> 非常灵活的一款文档工具，支持任何语言编写的API。
+
+#### [Doxygen](http://www.stack.nl/~dimitri/doxygen/)
+> Doxgen可以从一套归档源文件开始，生成HTML格式的在线类浏览器，或离线的LATEX、RTF参考手册。对于未归档的源文件，也可以通过配置Doxygen来提取代码结构。
+
+#### [TurnAPI](http://turnapi.com/)
+> 是一款付费的文档API工具。里面包含了智能WIKI编辑器、基于标准的Markdown、文档分支、还可以与Git、SVN、Mercurial同步、整洁的主题、友好的界面。
