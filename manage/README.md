@@ -25,6 +25,10 @@
 
 ### 经验分享
 
+#### [如何提升你的能力？给年轻程序员的几条建议](http://tech.glowing.com/cn/advices-to-junior-developers/)
+
+#### [怎么做好互联网公司的技术团队负责人？](http://www.jianshu.com/p/463528c4ec91)
+
 #### [写给那些傻傻的，想做服务器开发的应届生](http://blog.devtang.com/blog/2015/10/07/why-fresh-wants-to-do-server-dev/)
 
 ### 其他

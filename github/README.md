@@ -110,8 +110,10 @@
 
 ### 前端部分
 
-#### [frontend-dev-bookmarks
-](https://github.com/dypsilon/frontend-dev-bookmarks)
+#### [awesome-npm](https://github.com/sindresorhus/awesome-npm?utm_source=javascriptweekly&utm_medium=email)
+> Awesome npm resources and tips
+
+#### [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 >前端开发书签资源整理
 
 #### [essential-javascript-links](https://github.com/ericelliott/essential-javascript-links)
