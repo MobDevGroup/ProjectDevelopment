@@ -40,6 +40,9 @@
 
 ### 工具
 
+#### [SosoApi](http://www.sosoapi.com/)
+> 专注于API接口文档管理及线上线下测试的API服务平台
+
 #### [ApiManager](https://github.com/gongwalker/ApiManager)
 > 一个PHP开源项目，接口文档管理平台
 
