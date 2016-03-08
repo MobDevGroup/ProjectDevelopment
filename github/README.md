@@ -164,6 +164,12 @@
 
 ### 其它部分
 
+#### [resumecards](https://github.com/ellekasai/resumecards)
+> 基于MarkDown的简历生成器
+
+#### [awesome-github](https://github.com/AntBranch/awesome-github)
+> 收集这个列表，只是为了更好地使用亲爱的GitHub
+
 #### [awesome-app-ideas](https://github.com/tastejs/awesome-app-ideas)
 > List of awesome app ideas
 
