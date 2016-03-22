@@ -1,6 +1,10 @@
 
 ### 网络编程
 
+#### [移动端基于 Cursor Based Pagination 的实时数据分页](http://www.sitepoint.com/paginating-real-time-data-cursor-based-pagination/)
+
+#### [Twitter时间线分页方案](https://dev.twitter.com/rest/public/timelines)
+
 #### [在淘宝上买件东西，背后发生了什么？](http://blog.jobbole.com/98501/)
 
 #### [RESTful 架构风格概述](http://blog.igevin.info/posts/restful-architecture-in-general/)

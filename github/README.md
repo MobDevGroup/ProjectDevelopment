@@ -164,6 +164,12 @@
 
 ### 其它部分
 
+#### [new-website](https://github.com/cdnjs/new-website)
+> cdnjs's website and api server
+
+#### [awesome-python](https://github.com/vinta/awesome-python)
+> A curated list of awesome Python frameworks, libraries, software and resources
+
 #### [resumecards](https://github.com/ellekasai/resumecards)
 > 基于MarkDown的简历生成器
 
