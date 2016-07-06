@@ -48,6 +48,9 @@
 
 ### 工具
 
+#### [RAP](https://github.com/thx/RAP)
+> Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！
+
 #### [SosoApi](http://www.sosoapi.com/)
 > 专注于API接口文档管理及线上线下测试的API服务平台
 
