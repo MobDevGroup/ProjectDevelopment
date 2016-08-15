@@ -1,6 +1,9 @@
 
 ### Android部分
 
+#### [Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs)
+> Android优秀博客合集
+
 #### [Android-Dev-Favorites](https://github.com/ruijun/Android-Dev-Favorites)
 > Android开发资源合集
 
@@ -163,6 +166,9 @@
 
 
 ### 其它部分
+
+#### [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software)
+> Linux软件合集
 
 #### [new-website](https://github.com/cdnjs/new-website)
 > cdnjs's website and api server
