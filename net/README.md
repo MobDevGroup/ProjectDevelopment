@@ -1,4 +1,3 @@
-
 ### 网络编程
 
 #### [移动端基于 Cursor Based Pagination 的实时数据分页](http://www.sitepoint.com/paginating-real-time-data-cursor-based-pagination/)
@@ -8,7 +7,6 @@
 #### [在淘宝上买件东西，背后发生了什么？](http://blog.jobbole.com/98501/)
 
 #### [RESTful 架构风格概述](http://blog.igevin.info/posts/restful-architecture-in-general/)
-
 
 #### [jsonapi](http://jsonapi.org/)
 > 用 JSON 构建 API 的标准指南,开源库[地址](https://github.com/json-api/json-api)
@@ -86,3 +84,31 @@
 
 #### [TurnAPI](http://turnapi.com/)
 > 是一款付费的文档API工具。里面包含了智能WIKI编辑器、基于标准的Markdown、文档分支、还可以与Git、SVN、Mercurial同步、整洁的主题、友好的界面。
+
+### 网站性能测试
+
+#### [Google PageSpeed Insights](https://developers.google.cn/speed/pagespeed/)
+> 测试之后还会提出优化意见。
+
+#### [WebPageTest](http://www.webpagetest.org/)
+> 支持全球多地区速度测试和多种浏览器。
+
+#### [Pingdom](https://tools.pingdom.com/)
+> 测试页面加载速度，为你找出性能瓶颈。
+
+#### [GTmetrix](https://gtmetrix.com/)
+> 不光能测试速度，还能帮助分析是否有法律风险，并提出优化建议。
+
+#### Web开发订阅
+
+#### [wdrl.info](https://wdrl.info/)
+> 每周推送精心挑选的 Web 开发相关文章。
+
+#### [web tools weekly](http://webtoolsweekly.com/)
+> 主要推送 Web 开发工具。
+
+#### [webopsweekly.com](http://webopsweekly.com/)
+> 每周推送关于 Web 运营、部署等方面的文章。
+
+#### [/dev tips](https://umaar.com/dev-tips/)
+> 每周分享开发小技巧。
