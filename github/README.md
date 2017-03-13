@@ -167,6 +167,12 @@
 
 ### 其它部分
 
+#### [system-design-prime](https://github.com/donnemartin/system-design-primer)
+> 全面讲解大规模可用系统的设计
+
+#### [interviews](https://github.com/kdn251/interviews)
+> 关于面试相关的都在这里了
+
 #### [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software)
 > Linux软件合集
 
