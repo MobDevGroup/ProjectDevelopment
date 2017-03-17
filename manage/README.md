@@ -1,5 +1,19 @@
 ### 项目管理
 
+#### [Git工作流指南：集中式工作流](http://blog.jobbole.com/76847/)
+
+#### [Git工作流指南：功能分支工作流](http://blog.jobbole.com/76857/)
+
+#### [Git工作流指南：Gitflow工作流](http://blog.jobbole.com/76867/)
+
+#### [Git工作流指南：Forking工作流](http://blog.jobbole.com/76861/)
+
+#### [Git工作流指南：Pull Request工作流](http://blog.jobbole.com/76854/)
+
+#### [Git工作流指南总结](http://blog.jobbole.com/76843/)
+
+#### [Git工作流指南比较英文原文](https://www.atlassian.com/git/tutorials/comparing-workflows)
+
 #### [Gitlab Gitflow总结](http://blog.csdn.net/uxyheaven/article/details/50373076)
 
 #### [GitFlow](http://nvie.com/posts/a-successful-git-branching-model/)
