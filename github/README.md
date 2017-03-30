@@ -167,6 +167,9 @@
 
 ### 其它部分
 
+#### [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
+> 一个旨在分享、推荐GitHub上的好玩、容易上手的项目，帮你找到编程的乐趣
+
 #### [system-design-prime](https://github.com/donnemartin/system-design-primer)
 > 全面讲解大规模可用系统的设计
 
