@@ -54,8 +54,8 @@
 
 ### 网站性能测试
 
-#### [Google PageSpeed Insights](https://developers.google.cn/speed/pagespeed/)
-> 测试之后还会提出优化意见。
+#### [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+> PageSpeed Insights 先分析网页的内容，然后提供关于如何提升网页加载速度的建议，需翻墙。
 
 #### [WebPageTest](http://www.webpagetest.org/)
 > 支持全球多地区速度测试和多种浏览器。
