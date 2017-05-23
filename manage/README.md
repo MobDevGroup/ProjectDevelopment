@@ -40,11 +40,17 @@
 #### [ZenHub](https://www.zenhub.io/)
 > 一款项目管理工具，嵌入到GitHub中，作为插件，与GitHub做到无缝结合
 
+#### [Jenkins](https://jenkins.io/)
+> 一个用Java编写的开源的持续集成工具
+
 #### [TravisCI](https://travis-ci.org/)
 > 持续集成，用于自动化的单元测试和自动化部署，可以设定通过测试自动部署上线
 
 #### [CircleCI](https://circleci.com/)
 > 持续集成，用于自动化构建、测试、部署。
+
+#### [Gerrit](https://www.gerritcodereview.com/)
+> 一个开源的code review代码审查软件，Android源代码就是用该软件进行代码审查的
 
 #### [Reviewable](https://reviewable.io/)
 > 代码Review工具，可以与GitHub无缝结合，当你提交一个PR时，在你的PR中，会在评论框中嵌入这样的一个按钮：点击进入Reviewable的页面对应的PR进行review，并且一个PR没有完成Review之前，是会一直被警告，让你警惕进行合并。
@@ -77,6 +83,9 @@
 > 代码覆盖率测试工具，结合TravisCI的自动化测试单元，提高你对项目的信心
 
 ### 文档管理
+
+#### [DokuWiki](https://www.dokuwiki.org/dokuwiki#)
+> 一款开源的wiki管理软件
 
 #### [Raneto](http://raneto.com/)
 > 利用 Markdown进行文档管理的系统
@@ -129,6 +138,11 @@
 #### [TurnAPI](http://turnapi.com/)
 > 是一款付费的文档API工具。里面包含了智能WIKI编辑器、基于标准的Markdown、文档分支、还可以与Git、SVN、Mercurial同步、整洁的主题、友好的界面。
 
+### 自动化测试
+
+#### [STF](http://openstf.io/)
+> 移动端开源的利用web来管理终端设备的解决方案
+
 ### 经验分享
 
 #### [Travis CI - 项目持续集成好伴侣](http://swiftcafe.io/2016/03/18/travis/)
@@ -140,5 +154,8 @@
 #### [写给那些傻傻的，想做服务器开发的应届生](http://blog.devtang.com/blog/2015/10/07/why-fresh-wants-to-do-server-dev/)
 
 ### 其他
+
+#### [Sonatype Nexus](https://www.sonatype.com/)
+> Maven私服搭建服务
 
 #### [强迫症的 Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac)
