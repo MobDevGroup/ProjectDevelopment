@@ -1,5 +1,22 @@
 ### 项目管理
 
+#### [Repo](https://code.google.com/archive/p/git-repo)
+> repo是Android项目团队为了方便管理Android项目及组成Android项目的几百个项目的Git库而开发的一套Python脚本，需翻墙。
+
+#### [Submodule](https://git-scm.com/docs/git-submodule)
+> Git 1.5.3中加入了git submodule这个命令。Git子模块允许你将一个Git仓库作为另一个Git仓库的子目录。它能让你将另一个仓库克隆到自己的项目中，同时还保持独立的提交。
+
+#### [git-subtree](https://github.com/apenwarr/git-subtree/)
+> Git在1.8.0版本引入了git subtree这个命令，它使用Git的subtree merge策略来得到类似git submodule的结果，使用git subtree，你不仅可以将其他项目合并为父项目的一个子目录，而且可以从父项目提取某个子目录的全部历史作为一个单独的项目。
+
+#### [gitslave](http://gitslave.sourceforge.net/)
+> GitSlave用于管理相关的一个父项目和多个Slave项目。通常，它会将你要执行的Git常规操作顺序在父项目和Slave项目中执行一遍，所以当你执行pull操作，项目中的所有仓库会顺序执行pull操作。GitSlave是对Git命令的封装，是被设计用于简化多仓库的Git操作，而不是要取代Git。
+
+#### [Git多项目管理](http://www.jianshu.com/p/284ded3d191b)
+> 介绍Git Submodule，Git Subtree，GitSlave和Google Repo这四种方式来管理多个Git项目
+
+### 工作流
+
 #### [Git工作流指南：集中式工作流](http://blog.jobbole.com/76847/)
 
 #### [Git工作流指南：功能分支工作流](http://blog.jobbole.com/76857/)
@@ -22,6 +39,8 @@
 #### [改进合作 Git 工作流：自动提取、合并提交](http://tech.meituan.com/improving-git-flow_squashing-commits.html)
 > Git工作流
 
+### 团队协作
+
 #### [slack群组](http://slack.com/)
 > Slack 是聊天群组 + 大规模工具集成 + 文件整合 + 统一搜索集为一体，是团队项目开发沟通的首选。
 
@@ -40,6 +59,8 @@
 #### [ZenHub](https://www.zenhub.io/)
 > 一款项目管理工具，嵌入到GitHub中，作为插件，与GitHub做到无缝结合
 
+### 持续集成
+
 #### [Jenkins](https://jenkins.io/)
 > 一个用Java编写的开源的持续集成工具
 
@@ -49,11 +70,14 @@
 #### [CircleCI](https://circleci.com/)
 > 持续集成，用于自动化构建、测试、部署。
 
+### 代码审查
+
 #### [Gerrit](https://www.gerritcodereview.com/)
 > 一个开源的code review代码审查软件，Android源代码就是用该软件进行代码审查的
 
 #### [Reviewable](https://reviewable.io/)
 > 代码Review工具，可以与GitHub无缝结合，当你提交一个PR时，在你的PR中，会在评论框中嵌入这样的一个按钮：点击进入Reviewable的页面对应的PR进行review，并且一个PR没有完成Review之前，是会一直被警告，让你警惕进行合并。
+
 
 #### [Code Reviewer](https://codereview.appspot.com/)
 > Code Reviewer是一款免费的、简单的又易于部署和使用的代码审查工具，由SmartBear开发——也是Collaborator的发明者，业界第一家推出商用代码审查工具的公司。
