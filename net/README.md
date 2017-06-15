@@ -1,5 +1,7 @@
 ### 网络编程
 
+#### [RESTful Service API 设计最佳工程实践和常见问题解决方案](http://www.macode.net/restful-service-api-design-best-practise/)
+
 #### [移动端基于 Cursor Based Pagination 的实时数据分页](http://www.sitepoint.com/paginating-real-time-data-cursor-based-pagination/)
 
 #### [Twitter时间线分页方案](https://dev.twitter.com/rest/public/timelines)
