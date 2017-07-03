@@ -169,6 +169,8 @@
 
 ### 经验分享
 
+#### [团队技术信息流建设](https://juejin.im/post/5955cd0e6fb9a06bc23a853e)
+
 #### [Travis CI - 项目持续集成好伴侣](http://swiftcafe.io/2016/03/18/travis/)
 
 #### [如何提升你的能力？给年轻程序员的几条建议](http://tech.glowing.com/cn/advices-to-junior-developers/)
