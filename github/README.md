@@ -1,6 +1,15 @@
 
 ### Android部分
 
+#### [UltimateAndroidReference](https://github.com/aritraroy/UltimateAndroidReference)
+> Android库精选
+
+#### [awesome-github-android-ui](https://github.com/opendigg/awesome-github-android-ui)
+> 安卓UI相关开源项目库汇总
+
+#### [Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials)
+> Kotlin基础学习资料
+
 #### [Andriod-collect-blogs](https://github.com/ZQiang94/Andriod-collect-blogs)
 > Android优秀博客合集
 
@@ -166,6 +175,26 @@
 
 
 ### 其它部分
+
+#### [优秀国产软件名录](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/zh-CN/china-apps.html)
+
+#### [Awesome-Windows](https://github.com/Awesome-Windows/Awesome)
+> windows软件合集
+
+#### [tensorflow-tutorial](https://github.com/wagamamaz/tensorflow-tutorial)
+> 机器学习资料合集
+
+#### [vps-comparison](https://github.com/joedicastro/vps-comparison)
+> vps提供商比较
+
+#### [awesome-indie](https://github.com/mezod/awesome-indie)
+> 那些已盈利的个人项目合集
+
+#### [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs)
+> 开源API合集
+
+#### [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+> hack系列合集
 
 #### [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
 > 一个旨在分享、推荐GitHub上的好玩、容易上手的项目，帮你找到编程的乐趣

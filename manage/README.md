@@ -70,6 +70,9 @@
 #### [CircleCI](https://circleci.com/)
 > 持续集成，用于自动化构建、测试、部署。
 
+#### [Gitlab-CI](https://about.gitlab.com/features/gitlab-ci-cd/)
+> 与Gitlab集成，无缝结合
+
 ### 代码审查
 
 #### [Gerrit](https://www.gerritcodereview.com/)
@@ -129,6 +132,9 @@
 #### [EasyAPI](http://www.easyapi.com/)
 > EasyAPI是一个为您提供API管理、API测试、API监控、API文档的综合性API服务平台。
 
+#### [slate](https://github.com/lord/slate)
+> 一个精美的API静态文档生成工具
+
 #### [SosoApi](http://www.sosoapi.com/)
 > 专注于API接口文档管理及线上线下测试的API服务平台
 
@@ -180,6 +186,9 @@
 #### [写给那些傻傻的，想做服务器开发的应届生](http://blog.devtang.com/blog/2015/10/07/why-fresh-wants-to-do-server-dev/)
 
 ### 其他
+
+#### [选择一个开源协议](http://choosealicense.online/)
+> 为你自己的开源项目选择一个合适的开源协议
 
 #### [Sonatype Nexus](https://www.sonatype.com/)
 > Maven私服搭建服务
