@@ -176,6 +176,8 @@
 
 ### 其它部分
 
+#### [以一种轻松的方式学习正则表达式](https://github.com/zeeshanu/learn-regex)
+
 #### [优秀国产软件名录](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/zh-CN/china-apps.html)
 
 #### [Awesome-Windows](https://github.com/Awesome-Windows/Awesome)
