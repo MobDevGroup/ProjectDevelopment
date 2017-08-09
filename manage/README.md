@@ -61,6 +61,9 @@
 
 ### 持续集成
 
+#### [Continuous-Integration-services](https://github.com/ligurio/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)
+> 持续集成服务列表
+
 #### [Jenkins](https://jenkins.io/)
 > 一个用Java编写的开源的持续集成工具
 
