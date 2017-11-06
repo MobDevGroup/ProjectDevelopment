@@ -176,6 +176,12 @@
 
 ### 其它部分
 
+#### [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+> Mac软件合集
+
+#### [awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
+> Mac软件合集
+
 #### [以一种轻松的方式学习正则表达式](https://github.com/zeeshanu/learn-regex)
 
 #### [优秀国产软件名录](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/zh-CN/china-apps.html)
