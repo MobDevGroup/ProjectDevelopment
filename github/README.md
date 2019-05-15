@@ -176,6 +176,12 @@
 
 ### 其它部分
 
+#### [linux-command](https://wangchujiang.com/linux-command/)
+> Linux常用命令搜索
+
+#### [DockerCheatSheet](https://github.com/eon01/DockerCheatSheet)
+> Docker 速查手册
+
 #### [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 > Mac软件合集
 

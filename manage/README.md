@@ -112,6 +112,24 @@
 #### [Coveralls](https://coveralls.io/)
 > 代码覆盖率测试工具，结合TravisCI的自动化测试单元，提高你对项目的信心
 
+#### [Conventional Commits](https://www.conventionalcommits.org/)
+> Commit message 和 Change log 编写约定规范(Angular版本)
+
+#### [SemVer](https://semver.org/)
+> 语义化版本管理规范
+
+#### [commitlint](https://github.com/conventional-changelog/commitlint)
+> 用工具来辅助规范Commit message
+
+#### [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)
+> Conventional Changelog生成
+
+#### [conventional-changelog-cli](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-cli#readme)
+> Conventional Changelog脚手架
+
+#### [Standard Version](https://github.com/conventional-changelog/standard-version)
+> 根据semver和conventionalcommits自动生成版本和CHANGELOG
+
 ### 文档管理
 
 #### [DokuWiki](https://www.dokuwiki.org/dokuwiki#)

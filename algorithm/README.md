@@ -1,6 +1,15 @@
 
 ### 算法
 
+#### [力扣](https://leetcode-cn.com/)
+
+#### [leetcode](https://leetcode.com/)
+
+#### [visualgo](https://visualgo.net/zh)
+> 数据结构和算法可视化
+
+#### [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
+
 #### [七月算法](http://ask.julyedu.com/)
 
 #### [July的博客](http://blog.csdn.net/v_july_v)
